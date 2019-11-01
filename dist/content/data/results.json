@@ -1,0 +1,30 @@
+{
+	"results": [
+
+		{
+			"border": 0,
+			"image": "content/data/results/0.jpg",
+			"name": "Сдаётся, перед нами фанат трёхлучевых…",
+			"text": ""
+		},
+		{
+			"border": 4,
+			"image": "content/data/results/1.jpg",
+			"name": "Неплохо для начала, но мир BMW куда шире, чем кажется. Погружайтесь!",
+			"text": ""
+		},
+		{
+			"border": 7,
+			"image": "content/data/results/2.jpg",
+			"name": "Это круто! Сколько, говорите, моделей BMW в вашем гараже?",
+			"text": ""
+		},
+		{
+			"border": 10,
+			"image": "content/data/results/3.jpg",
+			"name": "Вот это уровень! Мы и не надеялись, что кто-то справится со всеми вопросами!",
+			"text": ""
+		}
+		
+	]
+}
