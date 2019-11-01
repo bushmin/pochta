@@ -1,2 +1,4 @@
 # pochta
-Promotional quest for pochtoy.com
+Рекламный квест для pochtoy.com
+
+Играть: https://pochta.nozomu.ru
